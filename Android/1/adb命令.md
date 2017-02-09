@@ -1,0 +1,1 @@
+* 录制视频: adb shell screenrecord /sdcard/name.mp4 <br/>
